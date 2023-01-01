@@ -1,6 +1,8 @@
 # Aula 2: Inserindo dados pelo teclado em C - scanf 
 
-Também conhecida como HyperText Markup Language.
+
+### Variáveis 
+É a região de memória identificável por um nome que serve para guardar dados ou recuperar dados. Ela permite que o programa vá mudando o que está salvo em memória. 
 
 
 # Conceitos introdutórios
@@ -37,7 +39,12 @@ char nome[50] = ""
 
 # Constantes
 
-Tipos de % - especificadores de formato (printf)  
+Diretiva #define: Diferente das variáveis, não permite que o dado se modifique, cria um identificador para um dado de qualquer tipo. (#define <nome> <valor>).  
+Quando aparecer o <nome> no código, a máquina automaticamente vai substituir pelo valor da constante. 
+
+
+
+### Tipos de % - especificadores de formato (printf)  
 
 
 * %X - Números com base hexadecimal.
@@ -53,7 +60,7 @@ Tipos de % - especificadores de formato (printf)
 * .<num> -  Especifica quantos dígitos serão impressos depois da vírgula.
 
   
-Tipos de \ - sequências de escape (printf) 
+### Tipos de \ - sequências de escape (printf) 
   
 * \a - Toca um bipe, padrão sonoro do sistema.
 
@@ -75,7 +82,7 @@ Quando um caracter está cercado por aspas simples, é considerado um dado texto
   
 
 
-Tipos de % - especificadores de formato (scanf) 
+### Tipos de % - especificadores de formato (scanf) 
   
 * %d ou %i - Números inteiros. (tipo int).
 
