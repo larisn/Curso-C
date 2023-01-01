@@ -31,7 +31,7 @@ scanf("%d", &idade);
 ex: scanf("%d, %d", &idade, &idade2)               
 ~~~
 
-* Exemplo de um programa simples:
+* Exemplo de um programa simples utilizando algumas das funções aprendidas:
 
 ~~~c
 #include <stdio.h>
