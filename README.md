@@ -8,10 +8,10 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 ---
 
 ## Anotações Importantes
-* Anotações da aula 1, sobre funções: []()
+* Anotações da aula 1, sobre funções: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%201/nota.md)
 
 ## Lista de exercícios resolvidos
 
 ### Aula 1
 
-- Exercício C #01 - [Inserindo dados pelo teclado em C]()
+- Exercício C #01 - [Inserindo dados pelo teclado em C](https://github.com/larisn/Curso-C/blob/main/Aula%201/ex1.c)
