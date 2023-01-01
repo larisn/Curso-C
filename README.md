@@ -3,7 +3,7 @@
 
 
 
-Exercícios e anotações do curso de linguagem C
+Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oliveira
 
 ---
 
