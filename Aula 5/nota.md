@@ -1,6 +1,6 @@
 # Conheça o comando SWITCH-CASE
 
-### Estrutura de decisão múltipla
+### Estrutura de decisão múltipla:
 
 Serve para ver se uma única variável é igual a um valor, comparação apenas de igualdade. 
 Quando o usuário digita um valor no teclado, alguma mensagem específica aparece para ele, se ele digitar outro valor, outra mensagem vai aparecer. 
