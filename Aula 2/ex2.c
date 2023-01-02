@@ -21,3 +21,5 @@ printf("Dados informados:\n");
 printf("Idade: %d.\n", idade);
 printf("Altura %2f.\n", altura);
 printf("Nome: %s.\n", nome);
+
+}
