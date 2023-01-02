@@ -17,3 +17,8 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 ### Aula 1
 
 - Exercício C #01 - [Inserindo dados pelo teclado em C](https://github.com/larisn/Curso-C/blob/main/Aula%201/ex1.c)
+- Exercício C #02 - [Inserindo dados pelo teclado em C](https://github.com/larisn/Curso-C/blob/main/Aula%201/ex2.c)
+- Exercício C #03 - [Inserindo dados pelo teclado em C - scanf](https://github.com/larisn/Curso-C/blob/main/Aula%202/ex1.c)
+- Exercício C #04 - [Inserindo dados pelo teclado em C - scanf](https://github.com/larisn/Curso-C/blob/main/Aula%202/ex2.c)
+- Exercício C #05 - [Aprenda a realizar cálculos em C](https://github.com/larisn/Curso-C/blob/main/Aula%203/ex1.c)
+- Exercício C #06 - [Aprenda a realizar cálculos em C](https://github.com/larisn/Curso-C/blob/main/Aula%203/ex2.c)
