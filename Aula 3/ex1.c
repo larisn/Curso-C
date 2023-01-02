@@ -21,3 +21,5 @@ int main(){
     printf(Subtr.: %d.\n", subtr);
     printf("MUltiplic,: %d.\n", mult);
     printf("Divis.: %d.\n", divis);
+
+}             
