@@ -4,6 +4,7 @@
 
 
 Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oliveira.
+- ainda não concluído -
 
 ---
 
