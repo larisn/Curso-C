@@ -13,6 +13,11 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 * Anotações da aula 3, sobre cálculos: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%203/nota.md)
 * Anotações da aula 4, sobre os comandos if e else: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%204/nota.md)
 * Anotações da aula 5, sobre o comando switch-case: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%205/nota.md)
+* Anotações da aula 6, sobre os comandos do & while: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%206/nota.md)
+
+
+
+
 ## Lista de exercícios resolvidos
 
 ### Aula 1
@@ -31,3 +36,5 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 - Exercício C #12 - [Conheça o comando switch-case](https://github.com/larisn/Curso-C/blob/main/Aula%205/ex1.c)
 - Exercício C #13 - [Conheça o comando switch-case](https://github.com/larisn/Curso-C/blob/main/Aula%205/ex2.c)
 - Exercício C #14 - [Conheça o comando switch-case](https://github.com/larisn/Curso-C/blob/main/Aula%205/ex3.c)
+- Exercício C #15 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex1.c)
+- Exercício C #15 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex2.c)
