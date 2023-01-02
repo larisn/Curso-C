@@ -15,7 +15,7 @@ float v1, v2;
 	if (v1 > v2){
 		printf("O maior valor é: %.3f.\n", v1);
 
-	}else {
+	} else {
 		printf("O maior valor é %.3f.\n", v2);
 	}
 }
