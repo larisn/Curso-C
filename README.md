@@ -19,7 +19,7 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 
 
 
-## Lista de exercícios resolvidos
+## Lista de exercícios
 
 ### Aula 1
 
