@@ -53,4 +53,4 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 ### Aula 6
 
 - Exercício C #15 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex1.c)
-- Exercício C #15 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex2.c)
+- Exercício C #16 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex2.c)
