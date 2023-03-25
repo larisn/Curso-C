@@ -3,12 +3,10 @@
 </h1>
 
 
-
-
-Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oliveira.
+## 📚 Sobre 
+> Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oliveira.
 - curso pausado.
-
----
+<br>
 
 ## 📝 Anotações Importantes
 * Anotações da aula 1, sobre funções: [nota.md](https://github.com/larisn/Curso-C/blob/main/Aula%201/nota.md)
@@ -56,3 +54,10 @@ Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oli
 
 - Exercício C #15 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex1.c)
 - Exercício C #16 - [Conheça os comandos do & while](https://github.com/larisn/Curso-C/blob/main/Aula%206/ex2.c)
+<br>
+
+---
+
+## 🎐 Licença
+Esse projeto está sob licença. Clique no arquivo [LICENÇA](https://github.com/larisn/larisn/blob/main/LICENSE.md) para ver mais detalhes.
+
