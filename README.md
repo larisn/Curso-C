@@ -61,3 +61,8 @@
 ## 🎐 Licença
 Esse repositório está sob licença. Clique no arquivo [LICENÇA](https://github.com/larisn/larisn/blob/main/LICENSE.md) para ver mais detalhes.
 
+<br>
+
+---
+
+Feito com 🖤 by larisn
