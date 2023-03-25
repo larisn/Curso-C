@@ -6,7 +6,7 @@
 
 
 Exercícios e anotações do curso de linguagem C do prof. Pietro Martins De Oliveira.
-- curso pausado por enquanto.
+- curso pausado.
 
 ---
 
